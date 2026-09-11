@@ -125,3 +125,10 @@ Audio: FMOD, plus a MIDI keyboard I am not qualified to own
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/janalihassan/janalihassan/main/hero-run.svg"
+    alt="gameplay programmer, engine tinkerer — a pixel runner crossing a procedural skyline"
+    width="860">
+</p>
