@@ -30,6 +30,91 @@
 ![](https://github-contributor-stats.vercel.app/api?username=janalihassan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     Paste this whole thing into README.md in your profile repo.
+     Then find/replace YOUR_USERNAME -> your actual GitHub username (9 spots).
+     Every image is a live SVG rendered by a hosted service, so nothing
+     needs to be installed or built. Any line you don't like, delete it.
+     ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+[![Boot sequence](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=700&color=2EC4B6&center=true&vCenter=true&width=680&height=64&lines=%3E+loading+player+profile...;%3E+gameplay+programmer+%2F+engine+tinkerer;%3E+godot+%C2%B7+unity+%C2%B7+shaders+%C2%B7+tools;%3E+press+start)](https://github.com/YOUR_USERNAME)
+
+![Engine](https://img.shields.io/badge/engine-Godot%204-478CBF?style=flat-square&labelColor=16122B)
+![Language](https://img.shields.io/badge/daily%20driver-C%23%20%2F%20C%2B%2B-2EC4B6?style=flat-square&labelColor=16122B)
+![Status](https://img.shields.io/badge/status-shipping%20a%20roguelike-FF9161?style=flat-square&labelColor=16122B)
+![Jams](https://img.shields.io/badge/jams%20survived-7-FFD166?style=flat-square&labelColor=16122B)
+
+</div>
+
+---
+
+## Now playing
+
+**Untitled roguelike** — Godot 4, C#, hand-rolled ECS because I like pain.
+Procedural floors, deterministic seeds, and a dash I have rebalanced eleven
+times and will rebalance again.
+
+Currently solving: enemy telegraphs that stay readable without an animation
+budget. Currently avoiding: writing the save system properly.
+
+## Loadout
+
+[![Tools](https://skillicons.dev/icons?i=godot,unity,cs,cpp,rust,py,blender,git,vscode&theme=dark)](https://skillicons.dev)
+
+Engines: Godot, Unity, raw SDL2 when the itch hits
+Graphics: GLSL, a little WGSL, Aseprite for anything pixel
+Audio: FMOD, plus a MIDI keyboard I am not qualified to own
+
+## Run stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=16122B&title_color=FF9161&text_color=E6DCFF&icon_color=2EC4B6" alt="Commit stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=16122B&stroke=342A5E&ring=FF9161&fire=FF9161&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E6DCFF&sideLabels=8B7CB8&dates=8B7CB8" alt="Commit streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&area=true&bg_color=16122B&color=E6DCFF&line=FF9161&point=2EC4B6&custom_title=Commit%20telemetry%20-%20last%2031%20days" alt="Commit telemetry" />
+
+</div>
+
+## Achievements
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## Devlogs
+
+- Making enemy telegraphs readable without an animation budget
+- Why my save system was 400 lines and is now 40
+- Shipping a jam game in 48 hours with a cold
+
+## Continue?
+
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=16122B)](https://YOUR_USERNAME.itch.io)
+[![Bluesky](https://img.shields.io/badge/bluesky-1185FE?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=16122B)](https://bsky.app/profile/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/email-2EC4B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=16122B)](mailto:you@example.com)
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     Notes:
+
+     - Replace YOUR_USERNAME (9 spots), YOUR_HANDLE, and the email.
+     - Every image is served by a free third-party app. They occasionally
+       rate-limit or go down, which shows as a broken image. Each one is a
+       single line, so deleting it is the fix.
+     - The palette threaded through every URL is:
+         bg #16122B  accent #FF9161  teal #2EC4B6  text #E6DCFF  gold #FFD166
+       Change those hex values (drop the #) to re-skin everything at once.
+     - Typing lines live in the &lines= param, separated by ; with + for
+       spaces. Live editor: https://readme-typing-svg.demolab.com/demo/
+     - The badges under the headline are hand-written labels, not live data.
+       Edit the text right in the URL.
+     ═══════════════════════════════════════════════════════════════════ -->
+
 <!-- [![](https://komarev.com/ghpvc/?username=janalihassan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
